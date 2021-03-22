@@ -12,19 +12,10 @@ location: "Urbana, IL, USA"
 * Mentor, UIUC ECE undergraduate students [May 2020 - Present]
   * Mentored Student and Project:
     * Mentored ECE senior student (Shiru Shong) on the project of investigation the polar wind solution in various electrodynamic condition [Jan. 2021 - Present]
-    <img src="http://yilerat19.github.io/images/shiruwork.png">
+    ![](../images/shiruwork.png)
 
     * Mentored ECE senior student (Isha Garg) on a project pertaining to the development of an user interface for the ENA map visualization [May 2020 - Nov. 2020]
 
-
 <figure class="video_container">
-  <iframe src="https://youtu.be/apYqqypx7QA" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/apYqqypx7QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-
-
----
-<!--  <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="http://yilerat19.github.io/images/isha_videoposter.png">
-    <source src="path/to/video.mp4" type="video/mp4">
-  </video>
-</figure> -->

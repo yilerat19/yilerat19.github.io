@@ -13,7 +13,7 @@ I study the dynamics of plasmas and electromagnetic fields in the Terrestrial en
 
 In addition, these models are used to address open questions in Earth and Planetary science, and pave the path to new exploration endeavors. For instance, understating the loss and evolution of our atmosphere over geological times can place bounds and determine if, and under what conditions, Earth-like conditions for habitability can exist.
 
-<img src="http://yilerat19.github.io/images/7ions_question.png">
+![](../images/7ions_question.png)
 
 
 Develop Seven Ion Polar Wind Outflow Model (7iPWOM)
@@ -21,7 +21,7 @@ Develop Seven Ion Polar Wind Outflow Model (7iPWOM)
 
 The Seven Ion Polar Wind Outflow Model (7iPWOM), developed from the Glocer et al. 2020 model (referred as 3iPWOM), solves for the polar wind solution for 7 ions (O⁺, H⁺, He⁺, O⁺, N⁺, NO⁺, O⁺, N⁺), as compared to 3 ion(O⁺, H⁺, He⁺) solution provided by the 3iPWOM. The inner boundary is set at 200 km altitude, where the atmosphere is assumed to be in chemical equilibrium, while the outer boundary is at few Earth radii. To account for the possible energization mechanisms to increase or decrease the kinetic energy of ions, the 7iPWOM adopts two different approaches: fluid treatment below 1000 km and kinetic approach above 1000 km.
 
-<img src="http://yilerat19.github.io/images/7ipwom_method.jpg">
+![](../images/7ipwom_method.jpg)
 
 Non-negligible N+ ions: ~ 2500 lbs of N+ lost a day
 ======

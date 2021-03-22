@@ -15,5 +15,5 @@ location: "Urbana, IL, USA"
   * Held review sessions for 180 students of ECE 329 and graded exams.
 
   <figure class="video_container">
-    <iframe src="https://youtu.be/uRf6EbZAVz4" frameborder="0" allowfullscreen="true"> </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uRf6EbZAVz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </figure>

@@ -1,7 +1,7 @@
 ---
 title: "How are the N+ Ions Affecting the Transport and Acceleration of Ionospheric Outflowing Ions?"
 collection: publications
-permalink: /publication/essoar.10502057.1
+permalink: /publication/2019-lin-agu-poster
 excerpt: 'This poster presentation receives the Outstanding Student Presentation Award (OSPA) in the AGU 2019, which recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.'
 date: 2020-01-28
 venue: '2019 American Geophysical Union (AGU)'
@@ -15,4 +15,4 @@ Changes in the heavy ion composition in the terrestrial ionosphere and magnetosp
 
 Recommended citation: Lin, M.‐Y., Ilie, R., & Glocer, A. (2019). How are the N+ Ions Affecting the Transport and Acceleration of Ionospheric Outflowing Ions?. 2019 American Geophysical Union (AGU). https://www.essoar.org/doi/10.1002/essoar.10502057.1
 
-![Image of 7ipwomDataComparison](http://yilerat19.github.io/images/singlefieldline_v2.png)
+![](../images/singlefieldline_v2.png)
