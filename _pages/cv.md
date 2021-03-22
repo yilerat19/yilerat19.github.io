@@ -28,14 +28,6 @@ Research Experience
   * Devised and developed the Energetic Neutral Atom (ENA) visualization model to generate TWINS-like ENA images from the simulation data.
   * Led a proposal that granted computer allocation on the XSEDE Bridge Supercomputer, which provides the computing resources to several other group members.
 
-* Undergraduate Research Assistant, HPC Lab, National Taiwan University [Sept. 2016 - Jun. 2017]
-  * Advisor: Wang Shengde
-  * Developed the software interface on Google Cloud Computing for the computational model and communication system, which created an algorithm for fast data transfer between the server and multiple sensors.
-
-* Undergraduate Research Assistant, RFIC lab, National Taiwan University [Sept. 2015 - Dec. 2016]
-  * Advisor: Huang Tianwei
-  * Developed multi-project chip (MPC) held by National Chip Implementation Center, which were integrated as elements in the research of high frequency communication system. The two projects are “A One-Stage 24GHz Compact Fully-Integrated Transformer CMOS Power Amplifier” and “3D 60GHz Power Amplifier with TSMC 65nm”.
-
 Awards
 ======
 * Outstanding Student Presentation Award (OSPA), 2020 AGU, Virtual [Dec. 2020]
@@ -59,15 +51,6 @@ Awards
 
 Teaching/Mentoring Experience
 ======
-* Mentor, UIUC ECE undergraduate students [May 2020 - Present]
-  * Mentored Student and Project:
-    * Mentored ECE senior student (Isha Garg) on a project pertaining to the development of an user interface for the ENA map visualization [May 2020 - Nov. 2020]
-    * Mentored ECE senior student (Shiru Shong) on the project of investigation the polar wind solution in various electrodynamic condition [Jan. 2021 - Present]
-* Teaching Assistant, UIUC, Urbana, IL [Fall 2019, Spring 2020]
-  * Course: ECE 329 Fields and Waves I, Mathematica/Virtual Reality (VR) Laboratory
-  * Guided student experience through the first lab developed at the Electrical and Computer Engineering Department to help student understanding of abstract concepts in electromagnetism through VR technology.
-  * Guided approximately 70 students in the Mathematica/Virtual Reality (VR) Lab each semester.
-  * Held review sessions for 180 students of ECE 329 and graded exams.
 <ul>{% for post in site.teaching %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
