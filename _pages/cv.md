@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Complete CV](http://yilerat19.github.io/files/MYLin_CV_March2021.pdf)
+
 {% include base_path %}
 
 Education
