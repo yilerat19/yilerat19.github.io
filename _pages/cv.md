@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL [2019 - Present]
+* Ph.D. Candidate, Electrical and Computer Engineering (ECE), University of Illinois at Urbana-Champaign, Urbana, IL [2019 - Present]
 * M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL [2017 - 2019]
   * Thesis: Determine the Role of Neglected Heavy Ions N+ in the Earth’s Inner Magnetosphere
   * Advisor: Raluca Ilie
@@ -30,6 +30,12 @@ Research Experience
 
 Awards
 ======
+* Mavis Future Faculty Fellows (MF3), Grainger College of Engineering, UIUC, Urbana, IL [2021-2022]
+  * MF3 Academy in The Grainger College of Engineering was developed to facilitate the training of the next generation of great engineering faculty.
+  * [MF3 Program](http://publish.illinois.edu/engr-mavis/)
+* Yuen T. Lo Outstanding Graduate Research Award, UIUC, Urbana, IL [2020-2021]
+  * This award is presented to a PhD candidate per year in the Department of Electrical and Computer Engineering who has demonstrated excellence in research in the areas of electromagnetics or antennas.
+  * [Yuen T. Lo Outstanding Graduate Research Award](https://ece.illinois.edu/academics/grad/awards/lo)
 * Outstanding Student Presentation Award (OSPA), 2020 AGU, Virtual [Dec. 2020]
   * This award recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.
 * Outstanding Student Presentation Award (OSPA), 2019 AGU, San Francisco, California [Dec. 2019]
