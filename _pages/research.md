@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+Visualization Video of V-GEM 2021
+======
+[Click here for V-GEM 2021 3iPWOM vs 7iPWOM](../posts/V-GEM2021_MYL)
+
+[Click here for V-GEM 2021 7iPWOM Normal vs Extreme Condition](../posts/V-GEM2021_SS)
+
 Research Interest
 ======
 It is estimated that trillions of dollars, on the order of the gross domestic product of a large country, will be lost immediately after an extreme space weather event impacts the Earth. Space weather events involves drastic re-configurations of all current systems in the near-Earth space, with deleterious effects on engineering infrastructure, power grids, satellites, navigation systems, telecommunications, and more.
