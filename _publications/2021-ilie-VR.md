@@ -10,6 +10,7 @@ paperurl: 'https://peer.asee.org/38025'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+[Download paper here](https://peer.asee.org/38025)
 
 A solid understanding of electromagnetic (E&M) theory is key to the education of electrical engineering students. However, these concepts are notoriously challenging for students to learn, due to the difficulty in grasping abstract concepts such as the electric force as an invisible force that is acting at a distance, or how electromagnetic radiation is permeating and propagating in space. Building physical intuition to manipulate these abstractions requires means to visualize them in a three-dimensional space. This project involves the development of 3D visualizations of abstract E&M concepts in Virtual Reality (VR), in an immersive, exploratory, and engaging environment.
 

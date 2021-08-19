@@ -17,5 +17,3 @@ The escape of heavy ions from the Earth atmosphere is facilitated by energizatio
 Recommended Citation: M-Y. Lin, R. Ilie, S. Shong, H. Hu, A. Glocer, N+: Gatekeepers of Ionospheric Outflow, Virtual GEM Plasma Workshop 2021
 
 [Download the poster](http://yilerat19.github.io/files/VGEM2021_Poster_v6_print.pdf)
-
-[Click here for V-GEM 2021 Poster - N+: Gatekeeper of Ionospheric Outflow](../posts/V-GEM2021_MYL)

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021VGEM-Shong
 venue: "2021 Virtual GEM Workshop"
-date: 2021-07-26
+date: 2021-07-28
 location: "Virtual"
 ---
 
@@ -18,4 +18,4 @@ Recommended Citation: S. Shong, R. Ilie, M-Y. Lin, H. Hu, N+: Gatekeepers of A P
 
 [Download the poster](http://yilerat19.github.io/files/Shong_VGEM2021_print.pdf)
 
-[Click here for V-GEM 2021 Poster - N+: A Possible Gatekeeper of Surface Water](../posts/V-GEM2021_SS)
+[Click here for animations](http://yilerat19.github.io/posts/V-GEM2021_SS)

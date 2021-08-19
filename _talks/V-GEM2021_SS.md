@@ -1,6 +1,6 @@
 ---
-title: '[V-GEM 2021] N+: A Possible Gatekeeper of Surfaces Water'
-date: 2021-07-18
+title: '[Appendix / Animation] N+: A Possible Gatekeeper of Surfaces Water'
+date: 2021-07-27
 permalink: /posts/V-GEM2021_SS
 tags:
   - V-GEM2021
