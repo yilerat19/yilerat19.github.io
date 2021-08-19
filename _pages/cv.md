@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Complete CV](http://yilerat19.github.io/files/MYLin_CV_March2021.pdf)
+[Complete CV](http://yilerat19.github.io/files/Mei_Yun_Lin_CV_2021Aug.pdf)
 
 {% include base_path %}
 
@@ -30,6 +30,16 @@ Research Experience
 
 Awards
 ======
+* EECS Rising Stars, MIT [2021]
+  * Selected to attend MIT EECS Rising Stars Career workshop
+  * Rising Stars is an intensive workshop for graduate students and postdocs with underrepresented gender identities who are interested in pursuing academic careers in electrical engineering and computer science.
+  * [EECS Rising Star Webpage](https://risingstars21-eecs.mit.edu/)
+* Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellowship, NASA Heliophysics Devision [2021-2023]
+  * This prestigious research award is among only 19 national selections made in 2021 by NASA's Heliophysics division.
+  * The funding project is to investigate the role of heavy ions in the polar wind from ionosphere to several Earth radii.
+  * This research fellowship is funded $45,000 per 12-months for two years.  
+  * [News on UIUC ECE Newsletter](https://ece.illinois.edu/newsroom/news/40395)
+  * [Detailed Selection](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B3E72ED7E-1FBD-F815-5A4E-2DA033EF7449%7D&path=&method=init)
 * Mavis Future Faculty Fellows (MF3), Grainger College of Engineering, UIUC, Urbana, IL [2021-2022]
   * MF3 Academy in The Grainger College of Engineering was developed to facilitate the training of the next generation of great engineering faculty.
   * [MF3 Program](http://publish.illinois.edu/engr-mavis/)
@@ -40,7 +50,8 @@ Awards
   * This award recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.
 * Outstanding Student Presentation Award (OSPA), 2019 AGU, San Francisco, California [Dec. 2019]
   * This award recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.
-  * [the Outstanding Student Presentation Award both in 2019 and 2020](https://ece.illinois.edu/newsroom/news/7615)
+  * [The Outstanding Student Presentation Award both in 2019](https://ece.illinois.edu/newsroom/news/7615)
+  * [The Outstanding Student Presentation Award both in 2020](https://ece.illinois.edu/newsroom/news/34037).
 * Listed as Teachers Ranked as Excellent, UIUC, Urbana, IL [Fall 2019, Spring 2020]
   * Course: ECE 329 Fields and Waves I.
   * This award is given to top 30% faculty and teaching assistants across the entire UIUC campus each semester, based on students’ feedback.
@@ -63,6 +74,8 @@ Teaching/Mentoring Experience
 
 Leadership
 ======
+* Member, AGU OSPA Advisory Committee, 2021
+  * Guided and led the plan of 2021 AGU Outstanding Student Presentation Award (OSPA) competition with ~10 senior and early-career scientists all over the world.
 * Student Representative, NSF GEM Program [Jul. 2019 - Present]
   * Elected as the student representative, whose responsibilities include: organizing the “student day" (1 day student led workshop within the main GEM workshop) lectures and tutorials, selection of student tutorial speakers, and presentation competitions during the GEM workshop. In addition, the GEM Student Representative is granted a seat and voting privileges in the GEM Steering Committee.
   * [the Student Representative of the NSF Geospace Environment Modeling Program](https://ece.illinois.edu/newsroom/news/17359)
@@ -74,6 +87,10 @@ Leadership
 
 Professional Service
 ======
+* Moderator, 2021 VGEM Workshop
+  * Assisted the session held by the Focus Group, “Machine Learning" (ML), on July 28, 2021.
+* Moderator, 2021 VGEM workshop
+  * Moderate the tutorial plenary session of student-invited talk on July 30, 2021.
 * Co-Convener, 2020 VGEM Workshop [Jul. 2020]
   * Guided and led MPS1 Poster session on July 21, 2020.
 * Moderator, 2020 VGEM Workshop, Focus Group Session [Jul. 2020]

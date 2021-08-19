@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Visualization Video of V-GEM 2021
-======
-[Click here for V-GEM 2021 3iPWOM vs 7iPWOM](../posts/V-GEM2021_MYL)
-
-[Click here for V-GEM 2021 7iPWOM Normal vs Extreme Condition](../posts/V-GEM2021_SS)
-
 Research Interest
 ======
 It is estimated that trillions of dollars, on the order of the gross domestic product of a large country, will be lost immediately after an extreme space weather event impacts the Earth. Space weather events involves drastic re-configurations of all current systems in the near-Earth space, with deleterious effects on engineering infrastructure, power grids, satellites, navigation systems, telecommunications, and more.
@@ -34,7 +28,13 @@ Non-negligible N+ ions: ~ 2500 lbs of N+ lost a day
 
 Numerical experiments by the 7iPWOM, designed to probe the influence of season, as well as that of solar conditions, suggest that N+ is a significant ion species in the polar ionosphere and its presence largely improves the polar wind solution, as compared to observations. This research has been published in [2020GL089321](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL089321).
 
-Ongoing Research: Transport of molecular ions in the polar wind
+Transport of heavy ions, including molecular ions, in the polar wind
 ======
 
-The presence of molecular ions upflows provides an important framework to understand the transport and acceleration mechanisms of molecular ions in the polar wind, including wave heating mechanisms. The 7iPWOM is the first and only polar wind model to have the capability to study the behavior of the heavy ions, other than O+, in the Earth’s ionospheric outflow. Preliminary simulations show that molecular ions can acquire sufficient energy via WPI to escape from the high latitude ionosphere. [This preliminary result](http://yilerat19.github.io/publication/2020-lin-essoar.10506554.1) has been presented in 2020 AGU and received the OSPA award.
+The presence of molecular ions upflows provides an important framework to understand the transport and acceleration mechanisms of molecular ions in the polar wind, including wave heating mechanisms. The 7iPWOM is the first and only polar wind model to have the capability to study the behavior of the heavy ions, other than O+, in the Earth’s ionospheric outflow. Preliminary simulations show that molecular ions can acquire sufficient energy via WPI to escape from the high latitude ionosphere. [This preliminary result](http://yilerat19.github.io/publication/2020-lin-essoar.10506554.1) has been presented in 2020 AGU and received the OSPA award. This project is recently awarded the [Future Investigators in NASA Earth and Space Science and Technology fellowship (FINESST)](https://ece.illinois.edu/newsroom/news/40395) to explore the overall contribution and the energization mechanisms of heavy ions in the polar wind. This prestigious research grant is provided to graduate students who are designing and performing outstanding research projects relevant to the interests of from the NASA Heliophysics division of the NASA Science Mission Directorate (SMD).
+
+Visualization Video of V-GEM 2021
+======
+[Click here for V-GEM 2021 Poster - N+: Gatekeeper of Ionospheric Outflow](https://yilerat19.github.io/posts/V-GEM2021_MYL)
+
+[Click here for V-GEM 2021 Poster - N+: A Possible Gatekeeper of Surface Water](https://yilerat19.github.io/posts/V-GEM2021_SS)
