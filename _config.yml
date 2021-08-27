@@ -86,11 +86,11 @@ author:
   location         : "Urbana, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=spG6SysAAAAJ&hl=en"
   email            : "mylin2@illinois.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Mei-Yun-Lin-2"
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          :
   dribbble         :
   flickr           :

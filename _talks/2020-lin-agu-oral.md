@@ -1,7 +1,7 @@
 ---
 title: "Revealing the role of “hidden heavy ions” component in the terrestrial polar wind outflow"
-collection: publications
-permalink: /publication/2020-lin-agu-oral
+collection: talks
+permalink: /talks/2020-lin-agu-oral
 excerpt: 'This oral presentation receives the Outstanding Student Presentation Award (OSPA) in the AGU 2020, which recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.'
 date: 2020-12-15
 venue: '2020 American Geophysical Union (AGU)'

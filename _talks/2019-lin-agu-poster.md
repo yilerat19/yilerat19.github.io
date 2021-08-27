@@ -1,7 +1,7 @@
 ---
 title: "How are the N+ Ions Affecting the Transport and Acceleration of Ionospheric Outflowing Ions?"
-collection: publications
-permalink: /publication/2019-lin-agu-poster
+collection: talks
+permalink: /talks/2019-lin-agu-poster
 excerpt: 'This poster presentation receives the Outstanding Student Presentation Award (OSPA) in the AGU 2019, which recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.'
 date: 2020-01-28
 venue: '2019 American Geophysical Union (AGU)'
