@@ -7,13 +7,22 @@ redirect_from:
   - /resume
 ---
 
-[Complete CV](http://yilerat19.github.io/files/Mei_Yun_Lin_CV_2021Aug.pdf)
+[Complete CV](http://yilerat19.github.io/files/MYL_CV_2025.pdf)
 
 {% include base_path %}
 
+Work
+======
+* NASA Jack Eddy Postdoctoral Researcher, University Corporation for Atmospheric Research,
+Boulder, CO.
+ * Investigate the particle contributions originated from Moon and Earth to Earth’s geospace system by combining numerical modeling efforts with the ARTEMIS-THEMIS (lunar mission) observational data.
+ * Joint position as a visiting scholar at the Space Science Lab, University of California, Berkeley, to collaborate with the leading researchers in planetary science.
+
 Education
 ======
-* Ph.D. Candidate, Electrical and Computer Engineering (ECE), University of Illinois at Urbana-Champaign, Urbana, IL [2019 - Present]
+* Ph.D., Electrical and Computer Engineering (ECE), University of Illinois at Urbana-Champaign, Urbana, IL [2019 - 2023]
+  * Thesis: Transport and Energization of Heavy Ions in Earth’s High Latitude Ionosphere
+  * Advisor: Raluca Ilie
 * M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL [2017 - 2019]
   * Thesis: Determine the Role of Neglected Heavy Ions N+ in the Earth’s Inner Magnetosphere
   * Advisor: Raluca Ilie
@@ -21,7 +30,11 @@ Education
 
 Research Experience
 ======
-* Graduate Research Assistant, University of Illinois at Urbana-Champaign, Urbana, IL [Aug. 2017 - Present]
+* Early Career Scientist Member, International Team #528: Heavy Element, International Space
+Science Institution (ISSI), Bern, Switzerland.
+ * Address the problem of the Earth’s atmospheric loss of heavy elements from the behavior of the ionospheremagnetosphere system in response to geomagnetic activities.
+ * Collaborate with 10 experts from space science, planetary science, atmospheric science, as well as paleomagnetism from 10 institutions.
+* Graduate Research Assistant, University of Illinois at Urbana-Champaign, Urbana, IL [Aug. 2017 - 2023]
   * Advisor: Raluca Ilie
   * Developed Seven Ion Polar Wind Outflow Model (7iPWOM), the first polar wind model to describe the outflow of nitrogen and molecular ions along the magnetic field lines in the polar cap area. This effort not only improved our modeling efforts and showed significant improvement as compared with observations, but demonstrated the key role nitrogen ions play in the overall ionospheric outflow.
   * Further developed the Hot Electron Ion Drift Integrator Model (HEIDI), to include an additional ions species, which makes HEIDI the first and only ring current model to track the evolution and dynamics of all relevant ring current ions species.
@@ -30,10 +43,10 @@ Research Experience
 
 Awards
 ======
+* NASA Jack Eddy Postdoc Fellowship, University Corporation for Atmospheric Research, NASA [2023].
+* Paul D. Coleman Outstanding Research Award, University of Illinois at Urbana-Champaign, IL [2023].
+* Raj Mittra Outstanding Research Award, University of Illinois at Urbana-Champaign, IL [2022].
 * EECS Rising Stars, MIT [2021]
-  * Selected to attend MIT EECS Rising Stars Career workshop
-  * Rising Stars is an intensive workshop for graduate students and postdocs with underrepresented gender identities who are interested in pursuing academic careers in electrical engineering and computer science.
-  * [EECS Rising Star Webpage](https://risingstars21-eecs.mit.edu/)
 * Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellowship, NASA Heliophysics Devision [2021-2023]
   * This prestigious research award is among only 19 national selections made in 2021 by NASA's Heliophysics division.
   * The funding project is to investigate the role of heavy ions in the polar wind from ionosphere to several Earth radii.
@@ -41,28 +54,19 @@ Awards
   * [News on UIUC ECE Newsletter](https://ece.illinois.edu/newsroom/news/40395)
   * [Detailed Selection](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B3E72ED7E-1FBD-F815-5A4E-2DA033EF7449%7D&path=&method=init)
 * Mavis Future Faculty Fellows (MF3), Grainger College of Engineering, UIUC, Urbana, IL [2021-2022]
-  * MF3 Academy in The Grainger College of Engineering was developed to facilitate the training of the next generation of great engineering faculty.
   * [MF3 Program](http://publish.illinois.edu/engr-mavis/)
 * Yuen T. Lo Outstanding Graduate Research Award, UIUC, Urbana, IL [2020-2021]
-  * This award is presented to a PhD candidate per year in the Department of Electrical and Computer Engineering who has demonstrated excellence in research in the areas of electromagnetics or antennas.
   * [Yuen T. Lo Outstanding Graduate Research Award](https://ece.illinois.edu/academics/grad/awards/lo)
 * Outstanding Student Presentation Award (OSPA), 2020 AGU, Virtual [Dec. 2020]
-  * This award recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.
-* Outstanding Student Presentation Award (OSPA), 2019 AGU, San Francisco, California [Dec. 2019]
-  * This award recognizes top 2-5% students at a meeting attended by more than 25,000 researchers from more than 100 countries.
-  * [The Outstanding Student Presentation Award both in 2019](https://ece.illinois.edu/newsroom/news/7615)
   * [The Outstanding Student Presentation Award both in 2020](https://ece.illinois.edu/newsroom/news/34037).
+* Outstanding Student Presentation Award (OSPA), 2019 AGU, San Francisco, California [Dec. 2019]
+  * [The Outstanding Student Presentation Award both in 2019](https://ece.illinois.edu/newsroom/news/7615).
 * Listed as Teachers Ranked as Excellent, UIUC, Urbana, IL [Fall 2019, Spring 2020]
   * Course: ECE 329 Fields and Waves I.
-  * This award is given to top 30% faculty and teaching assistants across the entire UIUC campus each semester, based on students’ feedback.
 * Best Student Presentation Award, 2018 GEM Workshop, Santa Fe, New Mexico [Jun. 2018]
-  * This award is given to top 5% students among 100 student attendees each year.
   * [Best Student Presentation Award at 2018 GEM Workshop](https://ece.illinois.edu/newsroom/news/4058)
 * Heliophysics Summer School Scholarship, UCAR, Boulder, CO [Jul. 2018]
-  * Selected, and awarded Travel Grant to attend the summer school.
-  * [2018 Heliophysics Summer School](https://cpaess.ucar.edu/heliophysics/summer-school/2018-faculty-participants)
 * Space Weather Summer School Scholarship, HAO, Boulder, CO [Jul. 2018]
-  * Selected, and awarded Travel Grant to attend the summer school.
 * Presidential Award, National Taiwan University, Taipei, Taiwan [Jan. 2014]
   * This award recognizes top 5% of the class.
 
@@ -72,12 +76,19 @@ Teaching/Mentoring Experience
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Leadership
+Leadership and Service
 ======
-* Member, AGU OSPA Advisory Committee, 2021
-  * Guided and led the plan of 2021 AGU Outstanding Student Presentation Award (OSPA) competition with ~10 senior and early-career scientists all over the world.
-* Student Representative, NSF GEM Program [Jul. 2019 - Present]
-  * Elected as the student representative, whose responsibilities include: organizing the “student day" (1 day student led workshop within the main GEM workshop) lectures and tutorials, selection of student tutorial speakers, and presentation competitions during the GEM workshop. In addition, the GEM Student Representative is granted a seat and voting privileges in the GEM Steering Committee.
+* Organizer, Center for Integrative Planetary Science (CIPS), UC Berkeley [2024-Present].
+* Member, 2024 Eddy Cross-Disciplinary Symposium Steering Committee [2024-Present].
+* Journal Reviewer, JGR, GRL [2023-Present].
+* Panelist, NASA, NSF [2023-Present].
+* Session Chair, AGU SPA [2023-Present].
+* Student Representative, AGU SPA [2023-2024].
+* Principal Investigator, HUG Initiative, Institute for Inclusion, Diversity, Equity and Access, University of Illinois at Urbana-Champaign, Urbana, IL [2022-2023].
+ * Led the research team across the Engineering College to conduct the survey study and hold the panel discussion and workshop.
+ * Advocate for the pursuit of research careers among undergraduate and graduates,   200 students in total, in the ECE Illinois.
+* Member, AGU OSPA Advisory Committee [2021].
+* Student Representative, NSF GEM Program [2020-2022].
   * [the Student Representative of the NSF Geospace Environment Modeling Program](https://ece.illinois.edu/newsroom/news/17359)
   * [GEM Student Forum](https://gem.epss.ucla.edu/mediawiki/index.php/GEM_Student_Forum)
 * Software Development Manager, Electromagnetics (EM) VR Lab of UIUC, Urbana, IL.
@@ -85,33 +96,8 @@ Leadership
   * [Electromagnetics (EM) VR Lab of UIUC](https://www.ilie.ece.illinois.edu/vr-immersive-learning)
 
 
-Professional Service
-======
-* Moderator, 2021 VGEM Workshop
-  * Assisted the session held by the Focus Group, “Machine Learning" (ML), on July 28, 2021.
-* Moderator, 2021 VGEM workshop
-  * Moderate the tutorial plenary session of student-invited talk on July 30, 2021.
-* Co-Convener, 2020 VGEM Workshop [Jul. 2020]
-  * Guided and led MPS1 Poster session on July 21, 2020.
-* Moderator, 2020 VGEM Workshop, Focus Group Session [Jul. 2020]
-  * Assisted the session held by the Focus Group, “The Impact of the Cold Plasma in the Magnetospheric Physics" (CP), on July 24, 2020.
-
-Work Experience
-======
-* Software Intern, WASAI Technology, Taipei, Taiwan [Jul. 2016 - Jul. 2017]
-  * Became Software developer at WASAI, a company that won the Cloud Computing Start-up Award.
-  * Developed driver code to connect the FPGA and user interface to accelerate the algorithms of Map-Reduce and BZip2 under Hadoop data system, which became the first, and critical elements of the FPGA acceleration projects in WASAI.
-  * [WASAI Technology](https://www.wasaitech.com/)
-
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

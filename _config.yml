@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mei-Yun Lin / Heliophysics"
 title_separator          : "-"
 name                     : &name "Mei-Yun Lin"
-description              : &description "PhD Candidate in the Heliophysics research"
+description              : &description "Postdoc in the Heliophysics research"
 url                      : https://yilerat19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yilerat19.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mei-Yun Lin"
   avatar           : "UI-04-180228-940.jpg"
-  bio              : "PhD Candidate in the Department of Electrical and Computer Engineering from Univerisity of Illinois at Urbana, Champaign"
-  location         : "Urbana, Illinois"
+  bio              : "Postdoc"
+  location         : "Berkeley, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=spG6SysAAAAJ&hl=en"
-  email            : "mylin2@illinois.edu"
+  email            : "mylin2@berkeley.edu"
   researchgate     :  "https://www.researchgate.net/profile/Mei-Yun-Lin-2"
   uri              :
   bitbucket        :
